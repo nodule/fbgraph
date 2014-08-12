@@ -1,0 +1,14 @@
+{
+  "name": "fbgraph",
+  "description": "fbgraph for Chiχ",
+  "version": "0.0.2",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nodule/fbgraph.git"
+  },
+  "dependencies": {
+    "nfbgraph": "~0.5.0"
+  },
+  "nodes": [],
+  "twigs": []
+}
